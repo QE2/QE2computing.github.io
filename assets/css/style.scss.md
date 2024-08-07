@@ -1,9 +1,0 @@
-    ---
-    ---
-    
-    @import "{{ site.theme }}";
-	
-h1  {
-	font-size: 85px;
-}
-

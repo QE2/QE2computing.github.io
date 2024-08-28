@@ -269,3 +269,16 @@ box-shadow: 7px 10px 20px rgba(0,0,0,.8);
   font-weight: 600;
   font-style: normal;
 }
+
+/* Menú principal de cabecera */
+#menu-pral {
+  position: absolute;
+  bottom: 35px;
+  width: 56%;
+}
+#menu-pral .expansivo  {
+  display: table-cell;
+  vertical-align: top;
+  padding: 0;
+ border-right: 1px solid rgba(255,255,255,0.07);
+}

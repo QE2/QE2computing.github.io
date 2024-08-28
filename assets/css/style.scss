@@ -151,7 +151,12 @@ box-shadow: 7px 10px 20px rgba(0,0,0,.8);
 	display: inline-block;
 	box-shadow: 0px 3px 5px #888;
 }
-/* Tarjetas flotantes, pgs. de estaciones Silmar */
+
+
+/*
+** TARJETAS FLOTANTES
+*/
+
 .trjt-flotantes {
 	display: flex;
 	padding: 30px;
@@ -202,4 +207,48 @@ box-shadow: 7px 10px 20px rgba(0,0,0,.8);
 .trjt-flotantes .tarjeta:not(:first-child) {margin-left: -130px;}
 
 .trjt-flotantes .tarjeta:focus-within ~ .tarjeta, .trjt-flotantes .tarjeta:hover ~ .tarjeta {
-	transform: translateX(130px);}
+	transform: translateX(130px);
+}
+
+/* .cabecera-scc-flotante?? */
+.cabecera-scc-flotante	{
+	margin-right: 1rem;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	padding: 1.5rem;
+	transform: translateY(-10px);
+}
+@media only screen and (min-width: 981px)	{
+	.cabecera-scc-flotante	{
+		height: 400px;
+		margin: 30px;
+	}
+}
+.cabecera-scc-flotante:before	{
+	content: "";
+	background: linear-gradient(130deg,#ff7a18,#af002d 41.07%,#319197 76.05%);
+	position: absolute;
+	top: -5px;
+	left: -5px;
+	width: calc(100% + 10px);
+	height: calc(100% + 10px);
+	z-index: 1;
+	border-radius: 12px;
+}
+.cabecera-scc-flotante > *	{
+	position: relative;
+	z-index: 3;
+}
+.cabecera-scc-flotante::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  z-index: 2;
+  border-radius: 8px;
+}

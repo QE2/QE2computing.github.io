@@ -1,8 +1,19 @@
-<header> <a href="{{ '/' | relative_url }}"> <img src="{{ '/assets/img/logo-RFG-web.webp' | relative_url }}" alt="{{ site.title }} logo"></a>
+<header>
+
+
+<div class="logo-sitio ">
+	<a href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/marca/logo-RFG-web.webp' | relative_url }}" alt="{{ site.title }} logo"></a>
+</div>
+<div class="area-titulo">
+	<p class="titulo"><a href="https://www.qe2computing.com/">QE2 Computing</a>
+	</p>
+	<p class="descripcion">{{ site.description }}</p>
+</div>
+
 <nav>
 	<ul>
 		<li><a href="{{ '/' | relative_url }}">Inicio</a></li>
-		<li><a href="{{ '/servicios' | relative_url }}">Servicios</a></li>
+		<li><a href="{{ '/sobre-mi' | relative_url }}">Quién soy</a></li>
 		<li><a href="{{ '/contacto' | relative_url }}">Contacto</a></li>
 	</ul>
 </nav>

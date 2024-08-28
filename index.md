@@ -47,33 +47,24 @@ title: Home
 <!--  TARJETA VIAJAR  -->
 <div class="tarjeta">
   <a href="#" target="_blank" rel="noopener">
-  <div class="txt" style="background:  linear-gradient(to top, rgba(255,255,255,0), rgba(0, 0, 0, 0.6)), url('avion-transporte-aereo-y-turismo-piqsels.com-licencia-CC0-prp1.webp');">
+  <div class="txt" style="background:  linear-gradient(to top, rgba(255,255,255,0), rgba(0, 0, 0, 0.6)), url('/assets/img/avion-transporte-aereo-y-turismo-piqsels.com-licencia-CC0-prp1.webp');">
     <div><h3>Viajar</h3>
-    <p>Todo tipo de tips para tus viajes. Alojamientos, vuelos, costumbres y lugares seguros</p> </div>
-    <img decoding="async" src="/assets/img/assets/img/logo-RFG-web.webp" width="140">
+    <p>Todo tipo de tips para tus viajes. Alojamientos, vuelos, costumbres y lugares encantadores, seguros, … y otros peligrosos</p> </div>
+    <img decoding="async" src="/assets/img/logo-RFG-web.webp" width="140">
     </div><!-- .txt -->
 </a>
 </div>
 
+<!--  TARJETA IDEAS  -->
 <div class="tarjeta">
-  <a href="https://fundacionraed.org/wp-content/uploads/2021/05/informe-Silmar.doc-2019-estacion-de-la-Mar-Bella-cmpr.pdf" target="_blank" rel="noopener">
-  <div class="txt" style="background: url('https://fundacionraed.org/wp-content/uploads/2022/07/caballito-de-mar-portada-informe-mar-Bella-2019.webp');">
-    <div><h3>Silmar.doc 2019</h3>
-      <p>Estación Silmar de la Mar Bella - BCNM0318</p> </div>
-    <img decoding="async" src="https://fundacionraed.org/wp-content/uploads/2022/07/Diagonal-Mar-logo.webp" width="140">
-    </div><!-- .txt -->
-</a>
-</div><!-- .tarjeta -->
-  
-<div class="tarjeta">
-  <a href="https://fundacionraed.org/wp-content/uploads/2021/05/Silmar.doc-2018-Diagonal-Mar-Mar-Bella-RMVM-080119-cmpr.pdf" target="_blank" rel="noopener">
-  <div class="txt" style="background: url('https://fundacionraed.org/wp-content/uploads/2022/07/pluma-de-mar-gusano-poliqueto-de-la-especie-Branchiomma-luctuosum-informe-mar-Bella-2018.webp');">
-    <div><h3>Silmar.doc 2018</h3>
-      <p>Estación Silmar de la Mar Bella - BCNM0118</p> </div>
-    <img decoding="async" src="https://fundacionraed.org/wp-content/uploads/2022/07/Diagonal-Mar-logo.webp" width="140">
+  <a href="#" target="_blank" rel="noopener">
+  <div class="txt" style="background: url('bombilla-innovacion-no-atrib-licencia-pixabay.com-prp1.webp');">
+    <div><h3>Ideas</h3>
+      <p>Descubre un mundo de ideas para mejorar tu vida</p> </div>
+    <img decoding="async" src="/assets/img/logo-RFG-web.webp" width="140">
     </div><!-- .txt -->
 </a>
 </div><!-- .tarjeta -->
   
   
-</div>
+</div><!-- .fila .trjt-flotantes  -->

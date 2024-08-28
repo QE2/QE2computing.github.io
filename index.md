@@ -3,10 +3,14 @@ layout: default
 title: Home
 ---
 
+<h2 style="font-size: 80px; text-align: center;">Sitio en construcción</h2>
+
 # ResilienceForGrowth.com
 
 
-## Sitio en construcción. Próxima apertura en breve
+
+
+Próxima apertura en breve
 
 
 <div class="fila trjt-flotantes">

@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="/assets/img/portada/DALL·E-sitio-en-construccion.webp" alt="En construcción" width="1200" height="1200" decoding="async" loading="lazy">
+<img src="/assets/img/portada/DALL·E-sitio-en-construccion.webp" alt="En construcción" width="740" height="740" decoding="async" loading="lazy">
 
 <h2 style="font-size: 80px; text-align: center;">Sitio en construcción</h2>
 

@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
-/* FUENTES */
+/*
+** FUENTES/TIPOGRAFÍAS
+*/
 
 body {
   font-family: "Montserrat", sans-serif;
@@ -15,6 +17,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   font-style: normal;
 }
+h1  {
+  font-size: 50px;
+  line-height: 1.1;
+}
+
 
 /* ---------------
 DISEÑO RESPOSIVE:

@@ -24,10 +24,10 @@ title: Home
   <!-- TARJETA RECETAS -->
   <div class="tarjeta"> <!-- col-g-4 -->
   <a href="#" target="_blank" rel="noopener">
-  <div class="txt" style="background: linear-gradient(to top, rgba(255,255,255,0), rgba(0, 0, 0, 0.6)), url('/assets/img/alimentos-sostenibles-comida-vegetariana-no-atrib-pixabay.com-prp1.webp');;">
+  <div class="txt" style="background: linear-gradient(to top, rgba(255,255,255,0), rgba(0, 0, 0, 0.6)), url('/assets/img/portada/alimentos-sostenibles-comida-vegetariana-no-atrib-pixabay.com-prp1.webp');;">
     <div><h3>Recetas</h3>
       <p>Cocina par una vida saludable, con los alimentos que de verdad nuestro cuerpo necesita. Recetas para perder y ganar peso</p> </div>
-    <img decoding="async" src="/assets/img/logo-RFG-web.webp" width="60">
+    <img decoding="async" src="/assets/img/marca/logo-RFG-web.webp" width="60">
     </div><!-- .txt -->
 </a>
 </div>

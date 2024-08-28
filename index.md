@@ -47,15 +47,15 @@ title: Home
 <!--  TARJETA VIAJAR  -->
 <div class="tarjeta">
   <a href="#" target="_blank" rel="noopener">
-  <div class="txt" style="background:  linear-gradient(to top, rgba(255,255,255,0), rgba(0, 0, 0, 0.6)), url('https://fundacionraed.org/wp-content/uploads/2022/07/nudibranquio-portada-informe-mar-Bella-2020.webp');">
+  <div class="txt" style="background:  linear-gradient(to top, rgba(255,255,255,0), rgba(0, 0, 0, 0.6)), url('avion-transporte-aereo-y-turismo-piqsels.com-licencia-CC0-prp1.webp');">
     <div><h3>Viajar</h3>
     <p>Todo tipo de tips para tus viajes. Alojamientos, vuelos, costumbres y lugares seguros</p> </div>
-    <img decoding="async" src="/assets/img/logo-RFG-web.webp" width="140">
+    <img decoding="async" src="/assets/img/assets/img/logo-RFG-web.webp" width="140">
     </div><!-- .txt -->
 </a>
 </div>
-  
-  <div class="tarjeta">
+
+<div class="tarjeta">
   <a href="https://fundacionraed.org/wp-content/uploads/2021/05/informe-Silmar.doc-2019-estacion-de-la-Mar-Bella-cmpr.pdf" target="_blank" rel="noopener">
   <div class="txt" style="background: url('https://fundacionraed.org/wp-content/uploads/2022/07/caballito-de-mar-portada-informe-mar-Bella-2019.webp');">
     <div><h3>Silmar.doc 2019</h3>

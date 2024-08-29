@@ -12,7 +12,7 @@ title: Home
 
 
 
-Próxima apertura en breve
+Próxima apertura
 
 
 <div class="fila trjt-flotantes">

@@ -3,7 +3,7 @@ description: Construye tu camino, conquista tu futuro
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://resilienceforgrowth.com.github.io" # the base hostname & protocol for your site
 author: "Lara I. Batista"
-theme: minima
+# theme: minima
 markdown: kramdown
 paginate: 5
 

@@ -29,12 +29,15 @@ img{
   max-width: 100%;
   height: auto; /* Asegura imágenes responsive, cuando en estas se indica ancho y alto  */
 }
-/* Este estilo contraresta el predefinido por GitHub Pages, (ver Github's Markdown Preview Styles )
+/* Las siguientes reglas contrarestas las predefinidas por GitHub Pages en Github's Markdown Preview Styles,
 ** hasta que averigue una forma de eliminar este código predefinido.
-** Este código se muestra tras eliinar el tema 'mínima'
+** El codigo predefinido se muestra incluso tras elilinar el tema 'mínima'
  */
 .markdown-body img {
     background-color: transparent;
+}
+.container-lg {
+  max-width: 1600px;
 }
 
 /* ---------------

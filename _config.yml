@@ -2,7 +2,7 @@ title: resilienceforgrowth.com
 description: Construye tu camino, conquista tu futuro
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://resilienceforgrowth.com.github.io" # the base hostname & protocol for your site
-author: "Javier Rodríguez y Lara I. Batista"
+author: "Lara I. Batista"
 theme: minima
 markdown: kramdown
 paginate: 5

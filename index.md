@@ -19,7 +19,7 @@ Próxima apertura
 <div class="tarjeta">
   <a href="#" target="_blank" rel="noopener">
 <div class="txt" style="background: linear-gradient(to top, rgba(255,255,255,0), rgba(0, 0, 0, 0.6)), url('https://fundacionraed.org/wp-content/uploads/2024/07/portada-informe-Mar-Bella-variada-sargo-o-mojarra-Diplodus-vulgaris-pez.webp');">
-<div><h3>Problemas diarios</h3>
+<div><h3>Problemas Diarios</h3>
 <p>De qué formas la sociedad en la que vivimos afecta a los jóvenes y adolescentes, y cómo podemos evitarlo</p> </div>
 <img decoding="async" src="/assets/img/marca/logo-RFG-web.webp" width="60"></div><!-- .txt -->
   </a></div>
@@ -29,7 +29,7 @@ Próxima apertura
   <div class="tarjeta"> <!-- col-g-4 -->
   <a href="#" target="_blank" rel="noopener">
   <div class="txt" style="background: linear-gradient(to top, rgba(255,255,255,0), rgba(0, 0, 0, 0.6)), url('/assets/img/portada/alimentos-sostenibles-comida-vegetariana-no-atrib-pixabay.com-prp1.webp');;">
-    <div><h3>Cómo crear hábitos saludables</h3>
+    <div><h3>Cómo Crear Hábitos Saludables</h3>
       <p>Cocina par una vida saludable, con los alimentos que de verdad nuestro cuerpo necesita. Recetas para perder y ganar peso</p> </div>
     <img decoding="async" src="/assets/img/marca/logo-RFG-web.webp" width="60">
     </div><!-- .txt -->
@@ -40,7 +40,7 @@ Próxima apertura
 <div class="tarjeta"> <!-- col-g-4 -->
   <a href="#" target="_blank" rel="noopener">
   <div class="txt" style="background: linear-gradient(to top, rgba(255,255,255,0), rgba(0, 0, 0, 0.6)), url('/assets/img/portada/ejercicio-mujer-CC0-pexels.com-prp1.webp');;">
-    <div><h3>La presión social</h3>
+    <div><h3>La Presión Social</h3>
       <p>Rutinas de ejercicio efectivas, que te ayudarán a sano. Porque cuerpo y mente deben estar en perfecta sincronía, lo que ocurre a uno afecta al otro</p> </div>
     <img decoding="async" src="/assets/img/marca/logo-RFG-web.webp" width="60">
     </div><!-- .txt -->
@@ -51,7 +51,7 @@ Próxima apertura
 <div class="tarjeta">
   <a href="#" target="_blank" rel="noopener">
   <div class="txt" style="background:  linear-gradient(to top, rgba(255,255,255,0), rgba(0, 0, 0, 0.6)), url('/assets/img/portada/avion-transporte-aereo-y-turismo-piqsels.com-licencia-CC0-prp1.webp');">
-    <div><h3>Los trastornos alimenticios</h3>
+    <div><h3>Los Trastornos Alimenticios</h3>
     <p>Todo tipo de tips para tus viajes. Alojamientos, vuelos, costumbres y lugares encantadores, seguros, … y otros peligrosos</p> </div>
     <img decoding="async" src="/assets/img/marca/logo-RFG-web.webp" width="60">
     </div><!-- .txt -->
@@ -63,7 +63,7 @@ Próxima apertura
 <div class="tarjeta">
   <a href="#" target="_blank" rel="noopener">
   <div class="txt" style="background: url('/assets/img/portada/DALL·E-psicologia-y-mente-prp1.webp');">
-    <div><h3>Apocalipsis digital</h3>
+    <div><h3>Apocalipsis Digital</h3>
       <p>La salud empieza en la mente. Conócete a tí mismo, conecta con tu yo interior, y transforma el dolor en poder; rompe cadenas y sana tus traumas; filosofía Kaizen; del trauma al triunfo: el poder de la resiliencia</p> </div>
     <img decoding="async" src="/assets/img/marca/logo-RFG-web.webp" width="60">
     </div><!-- .txt -->
@@ -75,7 +75,7 @@ Próxima apertura
 <div class="tarjeta">
   <a href="#" target="_blank" rel="noopener">
   <div class="txt" style="background: url('/assets/img/portada/bombilla-innovacion-no-atrib-licencia-pixabay.com-prp1.webp');">
-    <div><h3>¿Cuál será nuestro futuro?</h3>
+    <div><h3>¿Cuál Será Nuestro Futuro?</h3>
       <p>Descubre un mundo de ideas, trucos y consejos prácticos para tu vida diaria, acorde a estilo de vida "healthy"</p> </div>
     <img decoding="async" src="/assets/img/marca/logo-RFG-web.webp" width="60">
     </div><!-- .txt -->
@@ -88,7 +88,7 @@ Próxima apertura
 <div class="tarjeta">
   <a href="#" target="_blank" rel="noopener">
   <div class="txt" style="background: url('/assets/img/portada/bombilla-innovacion-no-atrib-licencia-pixabay.com-prp1.webp');">
-    <div><h3>El último paso hacia...</h3>
+    <div><h3>El Último Paso Hacia...</h3>
       <p>Descubre un mundo de ideas, trucos y consejos prácticos para tu vida diaria, acorde a estilo de vida "healthy"</p> </div>
     <img decoding="async" src="/assets/img/marca/logo-RFG-web.webp" width="60">
     </div><!-- .txt -->
